@@ -1,0 +1,5 @@
+year,city,avg_aqi,avg_rain_days,avg_temp,trigger_days,claims_count,total_payout,total_premium_collected
+2016,Delhi,285,42,34,18,120,54000,78000
+2017,Delhi,301,39,35,21,134,61200,80500
+...
+2025,Delhi,310,44,36,26,150,73500,92000
